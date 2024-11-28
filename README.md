@@ -11,6 +11,6 @@
 ### -simple_cd_detection - przykład wykorzystania shapa do detekcji Concept Drift 
 ### -Abrupt_CD_method1 - bardziej skomplikowana metoda wykrywania CD typu Abrupt 
 ### -Abrupt_CD_method2 - bardziej skomplikowana metoda wykrywania CD typu Abrupt
-
+### -XAI_CD - skrypt faktycznie używany w badaniach, dalej niez optymalizowany i nie komentowany
 
 W razie pytań wyślijcie mail na adres: pit5682@gmail.com
