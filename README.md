@@ -13,4 +13,6 @@
 ### -Abrupt_CD_method2 - bardziej skomplikowana metoda wykrywania CD typu Abrupt
 ### -XAI_CD - skrypt faktycznie używany w badaniach, dalej niez optymalizowany i nie komentowany
 
+## Link do repozytorium wizualizacji wyników: https://github.com/Exanom/shap_results_webapp
+
 W razie pytań wyślijcie mail na adres: pit5682@gmail.com
